@@ -104,6 +104,32 @@ def seed_status_map(client):
                for i, (k, v) in enumerate(C.STATUS_GROUPS.items())]
     run(client, "CREATE OR REPLACE TABLE meta.status_map AS\n" + "\nUNION ALL\n".join(selects))
 
+def publish(ctx):
+    """WAP 'publish' step: copy audited gold tables into `analytics`."""
+    client = ctx.client
+    with ctx.model("publish", "analytics.*", "replace") as st:
+        n = 0
+        for t in PUBLISHED:
+            cfg = bq.CopyJobConfig(write_disposition=bq.WriteDisposition.WRITE_TRUNCATE)
+            client.copy_table(f"{C.GCP_PROJECT_ID}.gold.{t}", f"{C.GCP_PROJECT_ID}.analytics.{t}", job_config=cfg).result()
+            n += client.get_table(f"{C.GCP_PROJECT_ID}.analytics.{t}").num_rows
+        run(client, render(SQL / "analytics" / "bi_objects.sql"))
+        st["rows_out"] = n
+
+
+def export(ctx, out_dir: Path):
+    """Optional CSV extracts."""
+    out = out_dir / "marts"
+    out.mkdir(parents=True, exist_ok=True)
+    for t in EXPORTED:
+        rows = ctx.client.list_rows(f"{C.GCP_PROJECT_ID}.analytics.{t}")
+        with open(out / f"{t}.csv", "w", newline="") as f:
+            w = csv.writer(f)
+            w.writerow([c.name for c in rows.schema])
+            for r in rows:
+                w.writerow(["" if v is None else v for v in r.values()])
+    print(f"  [export] CSV extracts written to {out}")
+
 
 # -------------------------------------------------------------------- main --
 def main():
@@ -141,12 +167,13 @@ def main():
 
         # ------------------------------------------------------------ BRONZE
         # run_pipeline(force=a.force_ingest)
-        # run_rules(ctx, RULES, "bronze", C.DQ_FAIL_ON_ERROR)
+        run_pipeline(force=True)
+        run_rules(ctx, RULES, "bronze", C.DQ_FAIL_ON_ERROR)
 
         # ------------------------------------------------------------ SILVER
-        # for m in ["customers", "products", "subscriptions", "order_lines"]:
-        #     run_script(ctx, "silver", m, m)
-        # run_rules(ctx, RULES, "silver", C.DQ_FAIL_ON_ERROR)
+        for m in ["customers", "products", "subscriptions", "order_lines"]:
+            run_script(ctx, "silver", m, m)
+        run_rules(ctx, RULES, "silver", C.DQ_FAIL_ON_ERROR)
 
         # ------------------------------------------------------------ GOLD
         run_script(ctx, "gold", "dim_product", "dim_product")
@@ -160,7 +187,11 @@ def main():
         run_script(ctx, "gold", "dim_customer", "dim_customer")
         run_script(ctx, "gold", "marts", "marts", out_table="gold.mart_kpi_monthly")
         run_rules(ctx, RULES, "gold", C.DQ_FAIL_ON_ERROR)
-
+        # ------------------------------------------------------------ PUBLISH
+        publish(ctx)
+        ctx.finish("success")
+        if a.export_dir:
+            export(ctx, Path(a.export_dir))
     except DQBlocked as e:
         ctx.finish("blocked_by_dq", str(e))
         print(f"\nBLOCKED: {e}\nanalytics.* was NOT refreshed (last good version still served).")

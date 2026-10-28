@@ -5,6 +5,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 LOCAL_DATA_DIR = "../data"
 LOCAL_PARQUET_DIR = "../temp_parquet"
+OUTPUT_DIR = "./outputs"
 
 # GCP Configuration
 GCP_PROJECT_ID = "teambluerevenuemodel"
@@ -21,8 +22,8 @@ SOURCES = {
     "subscriptions": "subscriptions(in).csv",
 }
 
-# BigQuery datasets (one per layer). Created by Terraform.
-DATASETS = ("meta", "bronze", "silver", "gold")
+# BigQuery datasets
+DATASETS = ("meta", "bronze", "silver", "gold", "analytics")
 
 OPENING_MONTH = "2018-12-01"
 REPORT_START = "2019-01-01"

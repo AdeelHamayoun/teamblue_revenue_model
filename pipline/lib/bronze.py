@@ -1,7 +1,7 @@
 from google.cloud import storage, bigquery
 from pathlib import Path
 # import config as C
-from config import GCP_PROJECT_ID, BUCKET_NAME, REGION, LOCAL_DATA_DIR, SOURCES, LOCAL_PARQUET_DIR
+from config import GCP_PROJECT_ID, BUCKET_NAME, REGION, LOCAL_DATA_DIR, SOURCES, LOCAL_PARQUET_DIR, DATASETS
 import pandas as pd
 import hashlib
 import time
@@ -26,7 +26,8 @@ def initialize_gcp_resources():
         print(f"GCS bucket gs://{BUCKET_NAME} verified.")
 
     # 2. Ensure BigQuery Datasets exist
-    for dataset_id in ["bronze", "silver", "gold", "meta"]:
+    # for dataset_id in ["bronze", "silver", "gold", "meta","analytics"]:
+    for dataset_id in DATASETS:
         dataset_ref = bigquery.Dataset(f"{GCP_PROJECT_ID}.{dataset_id}")
         dataset_ref.location = REGION
         bq_client.create_dataset(dataset_ref, exists_ok=True)
@@ -141,7 +142,7 @@ def run_pipeline(force: bool = False):
             # Row hash generation
             row_str_values = df.fillna("").astype(str).agg('|'.join, axis=1)
             df['_row_hash'] = row_str_values.apply(lambda x: hashlib.md5(x.encode()).hexdigest())
-
+            df['batch_id'] = batch_id
             df['_source_row_number'] = range(1, len(df) + 1)
             df['_source_file'] = filename
             df['_ingested_at'] = pd.Timestamp.now()
