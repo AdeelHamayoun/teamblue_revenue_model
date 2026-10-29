@@ -23,7 +23,7 @@ you the exact data sources, fields, charts and filters to click together. Everyt
 | `mart_category_monthly` | product-category performance |
 | `mart_cohort_retention` | cohort retention heat-map |
 | `v_customer_month` | MRR by country / segment (customer-month grain) |
-| `dq_results_latest`, `pipeline_runs` | "Data confidence" page |
+
 
 4. For each data source: **Edit** -> set **Data credentials** to *Owner's credentials* (viewers of the report then
    need no BigQuery access) and **Data freshness** to *12 hours*.
@@ -93,34 +93,6 @@ Data source `mart_category_monthly`.
 | MRR by country | Geo chart or bar | v_customer_month | dimension `country_code`; metric `mrr` (SUM); filter `month` = latest trusted month, `is_active` = true |
 | MRR by segment | Donut | v_customer_month | dimension `segment_group`; metric `mrr` |
 
-### Page 6 - Data confidence ("Can I trust this?")  <- do not skip
-This model is built from a **sampled** billing extract; the dashboard must say so.
-| Element | Type | Data source | Setup |
-|---|---|---|---|
-| Share of MRR priced from carried-forward / backfilled lines | Time series | mart_kpi_monthly | `imputed_mrr_share` |
-| MRR at risk (payment issue) | Time series | mart_kpi_monthly | `mrr_at_risk_share` |
-| Completeness flags | Table | mart_kpi_monthly | `month`, `is_acquisition_complete`, `is_price_observable` |
-| Latest data-quality results | Table | dq_results_latest | `layer`, `rule_id`, `description`, `severity`, `failed_rows`, `total_rows`, `failure_rate`, `passed`; conditional format `passed = false` red |
-| Pipeline runs | Table | pipeline_runs | `started_at`, `mode`, `status`, `window_start`, `window_end` |
-| Text box | Text | - | "Acquisition KPIs are only complete until Dec-2020; the last month (Dec-2023) is fully imputed; see docs/insights_memo.md." |
-
-## 4. Calculated fields worth adding (Resource -> Manage added data sources -> Edit -> Add a field)
-
-```
--- mart_kpi_monthly: label for chart legends / tables
-Data reliability =
-CASE
-  WHEN is_price_observable = FALSE THEN "Last month (prices fully imputed)"
-  WHEN is_acquisition_complete = FALSE THEN "Acquisition under-sampled"
-  ELSE "Complete"
-END
-
--- mart_kpi_monthly: annual growth in %-points for a scorecard delta
-MRR YoY (EUR) = mrr - (mrr / (1 + mrr_growth_yoy))
-
--- mart_cohort_retention: tidy cohort label
-Cohort = CONCAT(YEAR(cohort_month), "-", LPAD(CAST(MONTH(cohort_month) AS TEXT), 2, "0"))
-```
 
 ## 5. Share
 **Share -> Manage access** -> add viewers (Viewer role). Because data credentials are the owner's, viewers need

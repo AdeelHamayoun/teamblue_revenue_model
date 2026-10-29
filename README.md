@@ -12,19 +12,19 @@ CSVs -> Cloud Storage -> BigQuery bronze -> silver -> gold -> (quality gate) -> 
 
 | Path | What it is |
 |---|---|
-| `terraform/` | Creates everything on Google Cloud: bucket, 5 BigQuery datasets, service account, permissions, optional daily schedule |
+
 | `pipeline/` | The Python + SQL pipeline (`run_pipeline.py` is the entry point; SQL is in `pipeline/sql/`) |
-| `looker_studio/DASHBOARD_GUIDE.md` | Click-by-click guide to build the 6-page dashboard |
-| `tests/` | `test_static.py` (offline), `test_acceptance.py` (BigQuery vs reference), `test_idempotency.py` |
-| `reference/` | Validated results of the same model, used as the answer key for the acceptance test |
+| `looker_studio/DASHBOARD_GUIDE.md` | Click-by-click guide to build the 5-page dashboard |
+| `data/` | raw data folder, contains source files |
+| `outputs/` | Validated results of the same model, used as the answer key for the acceptance test |
 | `docs/` | **Deliverables 2-4 of the brief**: `data_products.md`, `kpi_framework.md` (10 KPIs), `insights_memo.md`, plus `architecture_gcp.md` |
-| `scripts/` | `upload_raw.py` (send CSVs to the bucket), `deploy_job.sh` (optional automation) |
+
 
 > **Honest verification status.** In the environment where this package was assembled there was no internet and no
 > Google Cloud account, so the pipeline could **not** be executed against live BigQuery here. What *was* checked:
-> all 11 SQL models and 40 data-quality rules pass the offline static tests (`tests/test_static.py`: no DuckDB-only
+> all 11 SQL models and 40 data-quality rules pass 
 > syntax, balanced SQL, correct model order, valid references), and the business logic is a line-by-line port of a
-> model that was run and validated on this data. Your first full run, followed by `tests/test_acceptance.py`, is the
+> model that was run and validated on this data. Your first full run, is the
 > proof: it compares thousands of numbers (every month, scope and category) with the validated reference. If anything differs, the test names it exactly.
 
 ---
@@ -39,7 +39,6 @@ Time: about 45 minutes the first time. Cost: well under 1 USD a month for this d
    -> then *Billing* -> link a billing account. Note the **Project ID** (e.g. `teamblue-revenue-123456`) - not the display name.
 3. Install three tools (each has a normal installer):
    * **Google Cloud CLI** (`gcloud`): <https://cloud.google.com/sdk/docs/install>
-   * **Terraform** (1.5 or newer): <https://developer.hashicorp.com/terraform/install>
    * **Python 3.10 or newer**: <https://www.python.org/downloads/> (Windows: tick "Add Python to PATH")
 
 Open a terminal (Mac: *Terminal*; Windows: *PowerShell*) for the steps below. Commands are for Mac/Linux; the
@@ -60,47 +59,13 @@ source .venv/bin/activate                  # Windows: .venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 ```
 
-### Step 3 - Offline self-check (free, 2 seconds)
-```bash
-python tests/test_static.py
-```
-Expected last line: `ALL STATIC CHECKS PASSED`.
-
-### Step 4 - Create the cloud infrastructure with Terraform
-```bash
-cd terraform
-cp terraform.tfvars.example terraform.tfvars      # Windows: copy terraform.tfvars.example terraform.tfvars
-```
-Open `terraform.tfvars` in any text editor and set `project_id` (your Project ID) and `analytics_viewers`
-(your Google account, e.g. `["user:you@gmail.com"]`). Save, then:
-```bash
-terraform init
-terraform plan          # shows what will be created: 8 APIs, 1 bucket, 5 datasets, 1 service account, permissions
-terraform apply         # type "yes" when asked
-cd ..
-```
-If a message says an API is not enabled yet, wait one minute and run `terraform apply` again.
-
-### Step 5 - Tell the pipeline where things are
-Mac/Linux:
-```bash
-eval "$(terraform -chdir=terraform output -raw env_exports)"
-```
-Windows PowerShell (use the values printed by `terraform output`):
-```powershell
-$env:GCP_PROJECT="YOUR_PROJECT_ID"; $env:BQ_LOCATION="EU"; $env:RAW_BUCKET="YOUR_PROJECT_ID-teamblue-raw"
-```
-
-### Step 6 - Upload the four CSV files
+### Step 3 - Upload the four CSV files
 Use the folder that contains `customers(in).csv`, `orders(in).csv`, `subscriptions(in).csv`, `products(in).csv`:
-```bash
-python scripts/upload_raw.py "/path/to/Analytics Engineer assignment"
-```
-It stores them as `gs://<bucket>/raw/customers.csv`, etc.
+It stores them as `./data/customers.csv`, etc.
 
-### Step 7 - Run the pipeline
+### Step 4 - Run the pipeline
 ```bash
-python pipeline/run_pipeline.py --mode full --export-dir outputs
+python pipeline/run_pipeline.py --mode full 
 ```
 Takes a few minutes. You will see a line per model and per layer of data-quality checks. What good looks like:
 
@@ -112,14 +77,8 @@ Takes a few minutes. You will see a line per model and per layer of data-quality
 
 If a blocking rule fails, the run stops with `BLOCKED: ...` and **nothing is published** (by design).
 
-### Step 8 - Prove it is correct
-```bash
-python tests/test_acceptance.py
-```
-Expected: `PASS: BigQuery results match the reference model exactly.`
-Optional (a few cents of BigQuery): `python tests/test_idempotency.py` proves that re-runs, incremental runs and
-backfills give identical results to a full rebuild.
-
+### Step 5 - Prove it is correct
+once all the DQ rules passed then it populates analytics layer marts for reporting.
 Spot-check numbers yourself in the BigQuery console (<https://console.cloud.google.com/bigquery>):
 ```sql
 SELECT month, mrr, active_customers, arpu, nrr_12m
@@ -130,23 +89,9 @@ ORDER BY month;
 --           2023-12  MRR 191,263.23  / 33,099 customers / NRR(12m) 85.18%
 ```
 
-### Step 9 - Build the dashboard
+### Step 6 - Build the dashboard
 Follow `looker_studio/DASHBOARD_GUIDE.md` (about 45 minutes, no code). Result: a 6-page report -
 Executive overview, MRR movements, Product categories, Retention & cohorts, Customers & cross-sell, Data confidence.
-
-### Step 10 (optional) - Run it automatically every morning
-```bash
-export GCP_PROJECT=YOUR_PROJECT_ID
-./scripts/deploy_job.sh            # builds the container, creates the Cloud Run Job + Cloud Scheduler trigger
-```
-The job runs `--mode incremental --lookback 3` daily at 06:00 (Berlin time): it reloads files only if they changed and
-recomputes the last 3 months. Run it on demand with
-`gcloud run jobs execute teamblue-pipeline --region europe-west1 --wait`.
-
-### Step 11 - Clean up (stops all cost)
-Set `force_destroy = true` in `terraform.tfvars`, run `terraform apply`, then `terraform destroy`.
-
----
 
 ## Everyday commands
 
@@ -156,20 +101,6 @@ python pipeline/run_pipeline.py --mode incremental --lookback 3          # last 
 python pipeline/run_pipeline.py --mode backfill --start 2020-01 --end 2020-06
 python pipeline/run_pipeline.py --mode full --force-ingest               # reload CSVs even if unchanged
 ```
-
-## Troubleshooting
-
-| Message | Meaning / fix |
-|---|---|
-| `GCP_PROJECT is not set` / `RAW_BUCKET is not set` | Redo Step 5 in the same terminal window |
-| `Could not automatically determine credentials` | Run `gcloud auth application-default login` |
-| `... not found. Upload the CSVs first` | Redo Step 6 |
-| `403 Access Denied: ... bigquery.jobs.create` | Your account lacks permission on the project: use the Owner account, or add yourself to `analytics_viewers` and ask an Owner for *BigQuery Admin* |
-| `Not found: Dataset ... was not found in location EU` | Run Step 4; do not mix locations (`BQ_LOCATION` must equal Terraform `bq_location`) |
-| `Error 403: ... has not been used in project ... before or it is disabled` | An API is still enabling; wait a minute and retry `terraform apply` |
-| `BLOCKED: silver: blocking DQ rules failed: [...]` | The data failed an error-level check. Read the printed rule and `analytics.dq_results_latest`; fix the source file, re-upload, re-run |
-| Cloud Build cannot push the image | Grant the Cloud Build service account *Artifact Registry Writer*, then re-run `deploy_job.sh` |
-| Looker Studio: "no data / permission" | Data source credentials must be *Owner's credentials*, and the owner needs Data Viewer on `analytics` |
 
 ## How the brief is answered
 

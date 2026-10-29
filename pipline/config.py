@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 LOCAL_DATA_DIR = "../data"
 LOCAL_PARQUET_DIR = "../temp_parquet"
-OUTPUT_DIR = "./outputs"
+OUTPUT_DIR = "../outputs"
 
 # GCP Configuration
 GCP_PROJECT_ID = "teambluerevenuemodel"

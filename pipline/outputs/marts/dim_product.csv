@@ -1,0 +1,1464 @@
+product_id,product_code,product_desc,product_subgroup,product_group,product_subcategory,product_category,is_unknown_member
+59741,backup_srv_1000gb,Backup Server 1TB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+75061,backup_srv_50gb,Servidor Backup 50GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+116881,backup_srv_s100a1,backup_srv_s100a1,Backup and security,Backup and security,Professional Hosting,Hosting,False
+58021,backup_srv_100gb,Server Backup 100GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+24522,sitelock20,SiteLock Premium,Backup and security,Backup and security,Professional Hosting,Hosting,False
+58241,backup_srv_ag2,Server Backup 2 Agent,Backup and security,Backup and security,Professional Hosting,Hosting,False
+122281,backup_acr_50gb,Acronis Cyber Backup 50GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+28382,sitelock30,SiteLock PremiumSSL,Backup and security,Backup and security,Professional Hosting,Hosting,False
+58301,backup_srv_ag1,backup_srv_ag1,Backup and security,Backup and security,Professional Hosting,Hosting,False
+126941,backup_acr_1tb,Acronis Cyber Backup 1TB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+25441,sitelock10,SiteLock Basic,Backup and security,Backup and security,Professional Hosting,Hosting,False
+59641,backup_srv_250gb,Backup Server 250GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+19265,backupspace512,Backup Space 512GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+123221,backup_acr_250gb,Acronis Cyber Backup 250GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+58602,backup_srv_500gb,Backup Server 500GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+123841,backup_acr_100gb,Acronis Cyber Backup 100GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+65901,cdcaf12,SPAZIO DISCO BACKUP 10 GB,Backup and security,Backup and security,Professional Hosting,Hosting,False
+58022,backup_srv_ag1free,Server Backup 1 Agent Free,Backup and security,Backup and security,Professional Hosting,Hosting,False
+29301,email25ox1q2,25 email addresses 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+1654,authsmtpupg,Authenticated SMTP  - 5000 send upgrade,Basic E-mail,Business E-mail,Communication,Applications,False
+1374,email500,Annual fee for 500  email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+29087,email100ox1q10,100 email addresses 10GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+1013,authsmtp,Authenticated SMTP,Basic E-mail,Business E-mail,Communication,Applications,False
+65784,cdcaf25,UTENTE INTERFREE BASIC,Basic E-mail,Business E-mail,Communication,Applications,False
+28861,email3ox1q10,3 email addresses 10GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+65981,cdcaf27,1 GB DI POSTA AGGIUNTIVO,Basic E-mail,Business E-mail,Communication,Applications,False
+27462,email10ox1q5,10 email addresses 5GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+121241,email5000,email5000,Basic E-mail,Business E-mail,Communication,Applications,False
+1473,spamvir1,Antivirus/spam 1 email address,Basic E-mail,Business E-mail,Communication,Applications,False
+28322,email5ox1q10,5 email addresses 10GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+65790,cdcb83f,POSTA ELETTRONICA EMAILPRO BASIC,Basic E-mail,Business E-mail,Communication,Applications,False
+1747,spamvirdom1,Antivirus/spam for 1 Domain,Basic E-mail,Business E-mail,Communication,Applications,False
+25801,email2048,email2048,Basic E-mail,Business E-mail,Communication,Applications,False
+915,email10,10 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+82562,email1ox1q5,1 email address 5GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+28881,email25ox1q10,25 email addresses 10GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+28161,email100ox1q2,100 email addresses 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+84301,email1ox1q15,1 email address 15GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+1373,email100,100  email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+1647,webmailpro,Professional WebMail + 3GB space per mailbox account,Basic E-mail,Business E-mail,Communication,Applications,False
+58521,email1000ox1q2,1000 email addresses 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+65785,cdcaf26,UTENTE INTERFREE BUSINESS,Basic E-mail,Business E-mail,Communication,Applications,False
+129762,dmndabigboxalias,alias di posta per dominio abigbox,Basic E-mail,Business E-mail,Communication,Applications,False
+27961,authsmtp10000,10000 daily sendings,Basic E-mail,Business E-mail,Communication,Applications,False
+28181,authsmtp1000,1000 daily sendings,Basic E-mail,Business E-mail,Communication,Applications,False
+50341,email500ox1q2,500 email addresses 2GB of quota,Basic E-mail,Business E-mail,Communication,Applications,False
+82561,email1ox1q2,1 email address 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+82581,email1ox1q10,email1ox1q10,Basic E-mail,Business E-mail,Communication,Applications,False
+70921,spamvirnodom,Antivirus/ antispam protection on all the mail accounts of domain,Basic E-mail,Business E-mail,Communication,Applications,False
+129768,dmndmail1000,100 caselle di posta da 10 mb (o 1000 mb da distribuire),Basic E-mail,Business E-mail,Communication,Applications,False
+107122,email1ox1q50,1 email address 50GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+28121,authsmtp5000,5000 daily sendings,Basic E-mail,Business E-mail,Communication,Applications,False
+129301,dmndabigbox125000,casella di posta elettronica alta capacità 25 gb,Basic E-mail,Business E-mail,Communication,Applications,False
+1700,email5nodom,5 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+28882,email5ox1q2,5 email addresses 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+31902,emailsh1ox0q2,1 Indirizzo email 2GB di spazio su dominio condiviso,Basic E-mail,Business E-mail,Communication,Applications,False
+129770,dmndmail400,40 caselle di posta da 10 mb (o 400 mb da distribuire),Basic E-mail,Business E-mail,Communication,Applications,False
+917,email25,25 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+107121,email1ox1q25,1 email address 25GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+65801,cdcb43f,POSTA ELETTRONICA EMAILPRO ADV,Basic E-mail,Business E-mail,Communication,Applications,False
+129302,dmndmail100,10 caselle di posta da 10 mb (o 100 mb da distribuire),Basic E-mail,Business E-mail,Communication,Applications,False
+24101,email5ox1q5,5 email addresses 5GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+65782,cdc30k5,DOMINIO - DNS + POSTA,Basic E-mail,Business E-mail,Communication,Applications,False
+1474,spamvir3,Antivirus/spam 3 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+1573,spamvir10,Antivirus/Antispam 10 email,Basic E-mail,Business E-mail,Communication,Applications,False
+1765,email10nodom,Annual fee for 10 extra email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+1528,email1000,1000 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+12922,smtp1000,smtp,Basic E-mail,Business E-mail,Communication,Applications,False
+791,email2,2 email addresses with Domain Pro,Basic E-mail,Business E-mail,Communication,Applications,False
+65788,cdcb63f,POSTA ELETTRONICA EMAILPRO BUSINESS,Basic E-mail,Business E-mail,Communication,Applications,False
+27441,email3ox1q2,3 email address 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+29721,email25ox1q5,25 email addresses 5GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+130861,dmndabigbox10025gb,100 caselle di posta alta capacità da 25 gb ognuna,Basic E-mail,Business E-mail,Communication,Applications,False
+129764,dmndemailplus,"webmail, imap, antivirus e antispam con gestione della quarantena integrata.",Basic E-mail,Business E-mail,Communication,Applications,False
+27461,email10ox1q2,10 email addresses 2GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+1529,email1024,email1024,Basic E-mail,Business E-mail,Communication,Applications,False
+29185,email3ox1q5,3 email addresses 5GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+793,email5,5 email addresses,Basic E-mail,Business E-mail,Communication,Applications,False
+29581,email2ox1q2,2 email addresses 2Gb of space,Basic E-mail,Business E-mail,Communication,Applications,False
+29942,email10ox1q10,10 email addresses 10GB of space,Basic E-mail,Business E-mail,Communication,Applications,False
+122646,codi6gb,Conservazione sulla PEC - Upgrade spazio a 6GB,Certified E-mail,Business E-mail,Communication,Applications,False
+1588,certmailsh,PEC Starter,Certified E-mail,Business E-mail,Communication,Applications,False
+125786,codi3gb,Conservazione sulla PEC - Upgrade spazio a 3GB,Certified E-mail,Business E-mail,Communication,Applications,False
+131412,dmndpec2gb,casella di posta elettronica certificata da 2gb,Certified E-mail,Business E-mail,Communication,Applications,False
+1839,certmail_plus,PEC Plus,Certified E-mail,Business E-mail,Communication,Applications,False
+122921,codi7gb,Conservazione sulla PEC - Upgrade spazio a 7GB,Certified E-mail,Business E-mail,Communication,Applications,False
+129306,dmndpecpec,casella di posta certificata pec su dominio pec.it da 1 gb,Certified E-mail,Business E-mail,Communication,Applications,False
+109461,assprem_infocert,Posta Certificata - Spazio aggiuntivo 2 GB,Certified E-mail,Business E-mail,Communication,Applications,False
+100861,certmailsh_1gb,Casella PEC Agile 1GB,Certified E-mail,Business E-mail,Communication,Applications,False
+129304,dmndpec,casella di posta elettronica certificata da 1gb,Certified E-mail,Business E-mail,Communication,Applications,False
+65041,cdcb34f,PEC BASE,Certified E-mail,Business E-mail,Communication,Applications,False
+1014,certmail,PEC Professional,Certified E-mail,Business E-mail,Communication,Applications,False
+65042,cdcb93f,PEC ADV,Certified E-mail,Business E-mail,Communication,Applications,False
+66021,asspremium_pec10gb,PEC spazio aggiuntivo 10GB,Certified E-mail,Business E-mail,Communication,Applications,False
+122661,codi5gb,Conservazione sulla PEC - Upgrade spazio a 5GB,Certified E-mail,Business E-mail,Communication,Applications,False
+65983,cdcb95f,PEC - 1GB SPAZIO AGGIUNTIVO,Certified E-mail,Business E-mail,Communication,Applications,False
+112122,pecquota10,Quota aggiuntiva per casella PEC 10 GB,Certified E-mail,Business E-mail,Communication,Applications,False
+1560,pec_setup,Setup fee pec,Certified E-mail,Business E-mail,Communication,Applications,False
+129305,dmndpeccert,certificazione dominio,Certified E-mail,Business E-mail,Communication,Applications,False
+125061,codi2gb,Conservazione sulla PEC - Upgrade spazio a 2GB,Certified E-mail,Business E-mail,Communication,Applications,False
+128362,pecquota5,Quota aggiuntiva per casella PEC 5 GB,Certified E-mail,Business E-mail,Communication,Applications,False
+40302,hypv3_base,Cloud VPS,Cloud Servers,Managed Cloud Servers,Professional Hosting,Hosting,False
+14181,hypv_base,Server Hyper-V,Cloud Servers,Managed Cloud Servers,Professional Hosting,Hosting,False
+22125,hypvupgrade,Virtual Server Upgrade,Cloud Servers,Managed Cloud Servers,Professional Hosting,Hosting,False
+70503,efree_fee_social,Mantenimento annuale Sito Web SOCIAL,Consultancy services,Consultancy services,Consultancy services,Other,False
+56164,efree_annualfee,èfree annual fee,Consultancy services,Consultancy services,Consultancy services,Other,False
+57181,efree_addon_catalog,èfree Catalog addon,Consultancy services,Consultancy services,Consultancy services,Other,False
+105801,ass_shop,Premium Support  Simply Site and Shop,Consultancy services,Consultancy services,Consultancy services,Other,False
+70501,efree_fee_smart,Mantenimento annuale Sito Web SMART,Consultancy services,Consultancy services,Consultancy services,Other,False
+71721,efree_fee_onepage,Mantenimento annuale Sito Web ONE PAGE,Consultancy services,Consultancy services,Consultancy services,Other,False
+86206,design_simplysite,SimplySite - Personalizzazione,Consultancy services,Consultancy services,Consultancy services,Other,False
+70721,efree_fee_ecommerce,Mantenimento annuale Sito Web COMMERCE,Consultancy services,Consultancy services,Consultancy services,Other,False
+87501,design_simply_social,SimplySite - Design Social,Consultancy services,Consultancy services,Consultancy services,Other,False
+79761,efree_addon_custom,Sito Web - Personalizzazione,Consultancy services,Consultancy services,Consultancy services,Other,False
+88101,design_simply_smart,SimplySite - Design Smart,Consultancy services,Consultancy services,Consultancy services,Other,False
+74781,deds2up_w16_8c_std,Windows 2016 Standard (fino a 8 core),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+12163,dedsup_ram12gb,Ram 12 GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50942,deds2up_plesk_unl,Odin Plesk Web Host Edition (Domini illimitati),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50842,deds2up_w2012_std,deds2up_w2012_std,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+107561,deds2_dellsfo26,Dell PowerEdge T130,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110201,deds4up_band_un_30,Traffico Illimitato,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+9082,dedsup_winweb,Windows Server 2008  Web 64 bit,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+54241,deds2up_hdd_3s_3000,Hard Disk 3TB 3.5 SATA,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50723,deds2up_ram_ddr3_8,RAM 8 GB DDR3,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56361,deds2up_rds_cal10,10 Licenses CAL Remote Desktop,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51561,deds2up_hdd_3s_2000,deds2up_hdd_3s_2000,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56503,deds2up_raid_h330,deds2up_raid_h330,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+57221,deds2up_ram_ddr4_16,RAM 16 GB DDR4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51341,deds2_dellds66,Server Dell DS 6.6,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+115102,deds2_dellsf47,Dell PowerEdge R240,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50648,deds2up_plesk_free,Odin Plesk Web Admin (10 Domini) (Free),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50663,deds2up_c_xe3_1230v2,deds2up_c_xe3_1230v2,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110004,deds4up_port1gb,1 Gb/s Network Port,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+82961,deds2up_ports1gb_sf,1 Gb/s Network Port,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1856,deds_atomcube,Server Atomcube,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+2018,dedsup_hdd500sata,Hard disk 500 GB Sata,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50662,deds2_dellds61,deds2_dellds61,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+82142,deds2up_c_xe3_1240v6,deds2up_c_xe3_1240v6,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+30743,dedsup_hdd480ssdv2,dedsup_hdd480ssdv2,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+64482,deds2_dellds64,deds2_dellds64,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+101102,deds2_dellsf15,Dell PowerEdge R210 II,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+116266,deds4up_ram4r_64,64GB DDR4 ECC REG,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1620,dphwin_var,Windows Dedicated Server,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56501,deds2_dellds63,deds2_dellds63,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+104962,deds2_dellsf71,Dell PowerEdge R440,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1859,dedsup_ram8gb,Ram 8 GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56623,deds2_dellds452,Server Dell DS 4.5.2,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50645,deds2up_c_xe3_1226v3,Intel(R) Xeon(R) CPU E3-1226v3@ 3.30GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+18461,deds_dellcs55,Server Dell Quad E3-1230,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51301,deds2up_plesk_30,Odin Plesk Web Pro Edition (30 Domains),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+100044,deds2up_c_xe3_1220v6,Intel® Xeon® CPU E3-1220 v6 @ 3.0GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+119303,deds2up_w19_8c_std,Windows 2019 Standard (up to 8 core),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+53501,deds2up_ram_ddr4_128,deds2up_ram_ddr4_128,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51041,deds2up_portspeed1gb,deds2up_portspeed1gb,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110007,deds4up_ram4_32,32GB DDR4 ECC LP,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+62983,deds2up_ram_ddr4_4,4 GB DDR4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+30381,deds_dellds46,Server Dell Quad E3-1230,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50841,deds2up_ram_ddr3_32,deds2up_ram_ddr3_32,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+131925,deds2_dellf240,Dell PowerEdge R240,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110002,deds4up_band_30tb,30 TB/mese,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+112121,deds2up_cpanel_100,cPanel Premier Metal 100 Accounts,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110003,deds4up_c_xe_2126,Intel® Xeon®  CPU E-2126G @ 3.30GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51801,deds2up_hdd_2s_2000,deds2up_hdd_2s_2000,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50643,deds2_ds431,Server DS 4.3.1,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+9482,dedsup_ram4gb,Ram 4 GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50724,deds2up_hdd_2s_1000,Hard Disk 1 TB 2.5 SATA,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+86563,deds2_ds430,Lenovo ThinkServer 140,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+74384,deds2up_raid_h310,PERC H310 Raid Adapter,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1904,dedsup_ram16gb,Ram 16 GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+62981,deds2_dellt130,Dell PowerEdge T130,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+100045,deds2up_c_xe_sil4114,Intel® Xeon®  SIlver CPU 4114 @ 2.2Ghz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50665,deds2up_band_30tb,deds2up_band_30tb,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+64561,deds2_dellds665,deds2_dellds665,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+131927,deds2_dellf4402,Dell PowerEdge R440,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+100046,deds2up_raid_h730p,PERC H730P Raid Adapter,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1903,dedsup_plesk30,Plesk 30 domains,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+9481,deds_dellds45,Server Dell Quad E31230,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+1905,dedsup_windows,Windows Server,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51381,deds2up_raid_c_5,deds2up_raid_c_5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+10321,dedsup_hdd640sata,Hard disk 640 GB Sata,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51443,deds2_dellds651,deds2_dellds651,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+131926,deds2_dellf4401,Dell PowerEdge R440,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110006,deds4up_raid_intsw,Intel® RST Raid,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+102241,deds2_dellsf1,Dell PowerEdge R210 II,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56741,deds2up_ram_ddr4_32,deds2up_ram_ddr4_32,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+80681,deds2up_ram_ddr4_256,RAM 256 GB DDR4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+82141,deds2_dellds63_5,deds2_dellds63_5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110001,deds4_rt4,SuperMicro X11SCE,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+61365,deds2_dellds452_2,deds2_dellds452_2,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+99861,deds2up_w12_8c_std,deds2up_w12_8c_std,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+62982,deds2up_c_xe3_1220v5,Intel® Xeon® CPU E3-1220 v5 @ 3.0GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50666,deds2up_raid_c_no,deds2up_raid_c_no,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50667,deds2up_hdd_2d_500,deds2up_hdd_2d_500,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+115103,deds2up_c_xe3_2134,Intel® Xeon® CPU E3-2134 @ 3.5GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+28301,dedsup_portspeed1gb,Network port 1GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+129441,deds4up_ipv4_8,8 Indirizzi IPv4 aggiuntivi,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50664,deds2up_raid_h200,deds2up_raid_h200,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+52163,deds2up_hdd_2d_1000,deds2up_hdd_2d_1000,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51022,deds2up_ram_ddr3_4,deds2up_ram_ddr3_4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+10602,dedsup_ram32gb,Ram 32 GB,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+53341,deds2up_hdd_3s_4000,Hard Disk 4 TB 3.5 SATA,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+100042,deds2_dellsf26,Dell PowerEdge T130,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51021,deds2up_hdd_3s_500,deds2up_hdd_3s_500,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51444,deds2up_c_xe5_2430,deds2up_c_xe5_2430,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+75661,deds2up_w16_10c_std,deds2up_w16_10c_std,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+109606,deds4up_port100mb,100 Mb/s Network Port,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+61823,deds2_dellds30_2,Dell PowerEdge R210 II,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+76001,deds2up_sql2016_web,deds2up_sql2016_web,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51345,deds2up_ram_ddr4_64,64 GB DDR4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110203,deds4up_ssd_1000,Hard Disk 1TB SSD,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+59702,deds2up_port100mb,100 Mb/s Network Port,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+111481,deds4_rt15,SuperMicro 6418A,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+80401,deds2up_c_i3_2100,Intel® Core™ i3-2100 CPU @ 3.10GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+81521,deds2up_assflat,Assistenza Flat,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+85881,deds2up_c_xe3_1230v3,deds2up_c_xe3_1230v3,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+80661,deds2up_band_50tb,50 TB/month,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51343,deds2up_managed,Servizio Managed Server,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+11601,dedsup_raid1,Raid 1,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+109603,deds4up_c_ac2550,Intel® Atom® CPU C2250 @ 2.40GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50902,deds2up_c_i3_3220,Intel(R) Core i3-3220(R) CPU @ 3.30GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+15484,deds_dellds15,Server Dell Dual DS1.5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110005,deds4up_raid_c_1,Raid 1,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+82381,srvsvc_vlan_5,VLAN Service - 5 Mac Addr,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110421,deds2_dellsf25,Dell PowerEdge T130,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+116268,deds4up_ssdp_1000,Hard Disk 1TB SSD PRO,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+2017,dedsup_hdd250sata,Hard disk 250 GB Sata,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+109611,deds4up_w19_8c_std,Windows Server 2019 Standard Edition (Up to 8 Core),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50644,deds2up_band_10tb,10 TB Bandwith,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+109605,deds4up_plesk_free,Plesk Web Admin (10 Domains) (Free),Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+63321,deds2up_ram_ddr4_8,deds2up_ram_ddr4_8,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51442,deds2up_raid_h710m,deds2up_raid_h710m,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+54641,deds2up_raid_Irste,Onboard Intel(R) RSTe Raid,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50901,deds2_dellds30,Server Dell DS 3.0,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+121261,deds2up_w19_10c_std,deds2up_w19_10c_std,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+64481,deds2up_c_xe5_2640v4,deds2up_c_xe5_2640v4,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50649,deds2up_raid_c_1,Raid 1,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51382,deds2up_cpanel_unl,deds2up_cpanel_unl,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110008,deds4up_ssd_2000,Hard Disk 2TB SSD,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+66461,deds2up_band_unl,Unlimited Traffic,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50981,deds2up_raid_c_0,Raid 0,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+81061,deds2up_band_15tb,15 TB/month,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+65101,deds2up_rds_cal20,20 Licenze CAL Remote Desktop,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51042,deds2up_raid_c_10,deds2up_raid_c_10,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+48821,hypv3up_win2012cal5,Windows Server 2012 Standard with 5 Client Access Licenses,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+56502,deds2up_c_xe3_1240v5,deds2up_c_xe3_1240v5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+63862,deds2_dellds451,Dell PowerEdge R210 II,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+101201,deds2_dellsf3,deds2_dellsf3,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50721,deds2_dellds31,Server Dell DS 3.1,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+61362,deds2_ds431_2,deds2_ds431_2,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+54962,deds2up_rds_cal5,deds2up_rds_cal5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50646,deds2up_hdd_3s_1000,Hard Disk 1TB 3.5 SATA,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+63861,deds2up_c_xe3_1230,Intel® Xeon® CPU E3-1230 @ 3.20GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+12161,deds_dellcs5,Server Dell Dual CS5,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51344,deds2up_raid_h730m,PERC H730 mini Raid Adapter,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+18341,dedsup_win2012,Windows Server 2012 Standard,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+8981,dedsup_hdd2000sata,Hard disk 2000 GB Sata,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+10221,dedsup_hdd1000sata,Hard disk 1000 GB Sata,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+26841,dedsupgrade,Dedicated Server Upgrade,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+68001,deds2up_c_xe3_1225v3,Intel® Xeon® CPU E3-1225v3@ 3.20GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+61661,deds2_dellds63_2,Dell PowerEdge R230,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+14101,dedsup_hdd240ssd,Hard disk 240 GB SSD,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+102003,deds2_dellsf32,deds2_dellsf32,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50650,deds2up_raid_lsi,LSI Raid Adapter,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110701,deds4up_managed,Managed Server Service,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+110202,deds4up_ram4_16,16GB DDR4 ECC LP,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+51342,deds2up_c_xe5_2640v3,Intel(R) Xeon(R) CPU E5-2640v3@ 2.6GHz,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+50651,deds2up_ram_ddr3_16,16 GB DDR3,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+100043,deds2_dellsf7,Dell PowerEdge R440,Dedicated Server Hosting,Dedicated Server Hosting,Professional Hosting,Hosting,False
+46181,domwtf,domwtf,Domain Names,Domainnames,Domain Names,Domains,False
+36381,sdompt,sdompt,Domain Names,Domainnames,Domain Names,Domains,False
+39981,dombest,dombest,Domain Names,Domainnames,Domain Names,Domains,False
+1787,recoverdomch,recoverdomch,Domain Names,Domainnames,Domain Names,Domains,False
+84581,repgpt,repgpt,Domain Names,Domainnames,Domain Names,Domains,False
+36205,dommanagement,dommanagement,Domain Names,Domainnames,Domain Names,Domains,False
+35501,domboutique,domboutique,Domain Names,Domainnames,Domain Names,Domains,False
+35081,domestate,domestate,Domain Names,Domainnames,Domain Names,Domains,False
+34681,regeus,Pack Domain,Domain Names,Domainnames,Domain Names,Domains,False
+55021,dommoney,dommoney,Domain Names,Domainnames,Domain Names,Domains,False
+41464,regdesign,regdesign,Domain Names,Domainnames,Domain Names,Domains,False
+33525,domarchi,domarchi,Domain Names,Domainnames,Domain Names,Domains,False
+51761,domworld,domworld,Domain Names,Domainnames,Domain Names,Domains,False
+39222,domparis,domparis,Domain Names,Domainnames,Domain Names,Domains,False
+34662,regparis,regparis,Domain Names,Domainnames,Domain Names,Domains,False
+52441,regcloud,Pack Domain,Domain Names,Domainnames,Domain Names,Domains,False
+75241,regart,regart,Domain Names,Domainnames,Domain Names,Domains,False
+62125,domrun,domrun,Domain Names,Domainnames,Domain Names,Domains,False
+39446,domwatch,domwatch,Domain Names,Domainnames,Domain Names,Domains,False
+54901,domwork,domwork,Domain Names,Domainnames,Domain Names,Domains,False
+1885,recoverdomcom,recoverdomcom,Domain Names,Domainnames,Domain Names,Domains,False
+50361,domsurf,domsurf,Domain Names,Domainnames,Domain Names,Domains,False
+45521,regsite,Pack Domain,Domain Names,Domainnames,Domain Names,Domains,False
+929,regasia,Dominio,Domain Names,Domainnames,Domain Names,Domains,False
+29521,regbest,regbest,Domain Names,Domainnames,Domain Names,Domains,False
+66301,sregcouk,Basic Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38601,regcoach,regcoach,Domain Names,Domainnames,Domain Names,Domains,False
+44241,domcare,domcare,Domain Names,Domainnames,Domain Names,Domains,False
+41701,domwebcam,domwebcam,Domain Names,Domainnames,Domain Names,Domains,False
+39422,domdance,domdance,Domain Names,Domainnames,Domain Names,Domains,False
+39771,domexpert,domexpert,Domain Names,Domainnames,Domain Names,Domains,False
+48681,domvet,domvet,Domain Names,Domainnames,Domain Names,Domains,False
+34342,sdomfr,sdomfr,Domain Names,Domainnames,Domain Names,Domains,False
+68461,sdomtv,Basic Domain,Domain Names,Domainnames,Domain Names,Domains,False
+55101,domnews,domnews,Domain Names,Domainnames,Domain Names,Domains,False
+40541,domrentals,domrentals,Domain Names,Domainnames,Domain Names,Domains,False
+91082,regapp,Pack Domain,Domain Names,Domainnames,Domain Names,Domains,False
+94787,assprem_bulkreg,Registrazione domini in bulk,Domain Names,Domainnames,Domain Names,Domains,False
+33241,sregfr,sregfr,Domain Names,Domainnames,Domain Names,Domains,False
+35102,dombike,dombike,Domain Names,Domainnames,Domain Names,Domains,False
+34686,regnetwork,Pack Domain,Domain Names,Domainnames,Domain Names,Domains,False
+83281,domquebec,domquebec,Domain Names,Domainnames,Domain Names,Domains,False
+1797,recoverdomit,rinnovo dominio scaduto .it,Domain Names,Domainnames,Domain Names,Domains,False
+47801,regonline,regonline,Domain Names,Domainnames,Domain Names,Domains,False
+1792,recoverdomeu,rinnovo dominio scaduto .eu,Domain Names,Domainnames,Domain Names,Domains,False
+59301,domcafe,domcafe,Domain Names,Domainnames,Domain Names,Domains,False
+39482,domcool,domcool,Domain Names,Domainnames,Domain Names,Domains,False
+70405,sdomcouk,Basic Domain,Domain Names,Domainnames,Domain Names,Domains,False
+68961,sdomru,Basic Domain,Domain Names,Domainnames,Domain Names,Domains,False
+43841,domcapital,domcapital,Domain Names,Domainnames,Domain Names,Domains,False
+130158,locpressg,presenza locale .sg per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130461,adultblock,AdultBlock Protection,Domain services,Domain services,Domain Names,Domains,False
+1546,locpresid,Local presence .id  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1925,reallocdom_tax,Tasse e diritti per riassegnazione dominio,Domain services,Domain services,Domain Names,Domains,False
+129788,dmndwhoprv,private registration,Domain services,Domain services,Domain Names,Domains,False
+1900,brandaudit_pro,Brand Audit Professional,Domain services,Domain services,Domain Names,Domains,False
+1547,locpreskr,Local presence .kr  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+15921,tm_clearinghouse,Trademark Clearinghouse,Domain services,Domain services,Domain Names,Domains,False
+1783,privatewhois,Private whois service,Domain services,Domain services,Domain Names,Domains,False
+1913,gtldmonitoring,Gtld Monitoring,Domain services,Domain services,Domain Names,Domains,False
+1553,locpressk,Local presence .sk per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1722,locconcomom,Local contact com.om for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1543,locpresfi,Local presence .fi  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1387,locconba,Local contact .ba  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1720,locconcomar,Local contact .com.ar  for domain  $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+131406,dmndextracscasia,maggiorazione csc,Domain services,Domain services,Domain Names,Domains,False
+1494,appraisal,Valutazione nome a dominio,Domain services,Domain services,Domain Names,Domains,False
+1838,brokerage_fee,Domain Brokerage Service,Domain services,Domain services,Domain Names,Domains,False
+1548,locpreskw,Local presence .kw for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1758,brandopinion,Brand Opinion,Domain services,Domain services,Domain Names,Domains,False
+1551,locprespy,Local presence .py per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1545,locpreshk,Local presence .hk  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1539,locpresca,Local presence .ca  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130156,locpresjp,presenza locale .jp per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1984,bookingreg_setup,Booking Domain Set up,Domain services,Domain services,Domain Names,Domains,False
+1538,locpresbr,Local presence .br per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130121,dmndredirect,dominiando redirect (web e email o dns),Domain services,Domain services,Domain Names,Domains,False
+1943,brokerage_setup,Set up Domain Brokerage,Domain services,Domain services,Domain Names,Domains,False
+92622,assprem_bulkowner,Cambio assegnatario domini in bulk,Domain services,Domain services,Domain Names,Domains,False
+1829,upg_sreg2reg,Upgrade Dominio,Domain services,Domain services,Domain Names,Domains,False
+1542,locprescy,Local presence .cy for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+20261,dp_markslist,Domains Protected Marks List,Domain services,Domain services,Domain Names,Domains,False
+1555,locpresuy,Local presence .uy per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130157,locpresma,presenza locale .ma per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+136682,gtld_special,Gtld Special Service,Domain services,Domain services,Domain Names,Domains,False
+1549,locpresmy,Local presence .my per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130648,locpreske,presenza locale .ke per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+130884,locpressa,presenza locale .sa per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1550,locpresno,Local presence .no  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1714,info_update,Information Update,Domain services,Domain services,Domain Names,Domains,False
+1540,locprescl,Local presence .cl per il dominio $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+1631,locadmasia,Local admin-c .asia  for domain $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+131388,locconmr,Local contact .mr  for domain  $domains{domain},Domain services,Domain services,Domain Names,Domains,False
+36903,email100ox2q5,100 email Pro addresses 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+121404,email1ox2q50,1 email Pro address 50GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36904,email10ox2q2,10 email Pro addresses 2GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+114641,mobile_sync,Mobile Sync,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36908,email25ox2q10,25 email Pro addresses 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36912,email3ox2q2,3 email Pro addresses 2GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36901,email100ox2q10,100 email Pro addresses 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+27463,email5ox2q5,5 email addresses 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36915,email5ox2q2,5 email Pro addresses 2GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36902,email100ox2q2,100 email Pro addresses 2GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36361,email10ox2q10,10 email Pro addresses 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36913,email3ox2q5,3 email Pro addresses 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36914,email5ox2q10,5 email Pro addresses 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+121403,email1ox2q25,1 email Pro address 25GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36907,email1ox2q5,1 email Pro address 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36441,email10ox2q5,10 email Pro addresses 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36601,email3ox2q10,3 email Pro addresses 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36906,email1ox2q2,1 email Pro address 2GB of spa,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36910,email25ox2q5,25 email Pro addresses 5GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36909,email25ox2q2,25 email Pro addresses 2GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+36905,email1ox2q10,1 email Pro address 10GB of space,E-mail Hosting Options,Business E-mail,Communication,Applications,False
+52001,hypv3up_managed,Server Management Service,Managed Cloud Servers,Managed Cloud Servers,Professional Hosting,Hosting,False
+162181,asspremium_wp,asspremium wordpress,Managed Services,Managed Services,Professional Hosting,Hosting,False
+72161,premsupport_1h,1h Assistenza Tecnica Premium,Managed Services,Managed Services,Professional Hosting,Hosting,False
+68482,premsupport_5h,5h Assistenza Tecnica Premium,Managed Services,Managed Services,Professional Hosting,Hosting,False
+98421,design_simplyshop,SimplyShop - Personalizzazione,Managed Services,Managed Services,Professional Hosting,Hosting,False
+175421,assprem_email,Assistenza premium Email,Managed Services,Managed Services,Professional Hosting,Hosting,False
+65181,asspremium,Premium Support Service,Managed Services,Managed Services,Professional Hosting,Hosting,False
+38142,o365_bus_ess5,Office Online 5 licenze,Office 365,Office 365,Communication,Applications,False
+36961,o365_bus_prem1,Office Premium 1 licenza,Office 365,Office 365,Communication,Applications,False
+29181,o365_exchange10,Email Exchange 10 licenze,Office 365,Office 365,Communication,Applications,False
+64421,o365_bus_prem25,Office Premium 25 licenze,Office 365,Office 365,Communication,Applications,False
+37363,o365_bus_prem5,Office Premium 5 licenze,Office 365,Office 365,Communication,Applications,False
+39061,o365_bus_prem10,Office Premium 10 licenze,Office 365,Office 365,Communication,Applications,False
+38141,o365_bus_ess3,Office Online 3 licenze,Office 365,Office 365,Communication,Applications,False
+42421,o365_bus_ess10,Office Online 10 licenze,Office 365,Office 365,Communication,Applications,False
+136622,ass_ms365_custom,Microsoft 365 Custom,Office 365,Office 365,Communication,Applications,False
+38521,o365_bus_prem15,Office Premium 15 licenze,Office 365,Office 365,Communication,Applications,False
+28541,o365_sharepoint3,Sharepoint 3 licenze,Office 365,Office 365,Communication,Applications,False
+36841,o365_bus_ess1,Office Online 1 user,Office 365,Office 365,Communication,Applications,False
+28949,o365_exchange3,Email Exchange 3 licenze,Office 365,Office 365,Communication,Applications,False
+29091,o365_exchange5,Email Exchange 5 licenze,Office 365,Office 365,Communication,Applications,False
+28883,o365_exchange1,Email Exchange 1 licenza,Office 365,Office 365,Communication,Applications,False
+29182,o365_exchange25,Email Exchange 25 licenze,Office 365,Office 365,Communication,Applications,False
+37021,o365_bus_prem3,Office Premium 3 licenze,Office 365,Office 365,Communication,Applications,False
+50647,deds2up_ipv4_2,2 Indirizzi IPv4 aggiuntivi,Other add-on services,Other add-on services,Other add-on services,Other,False
+32342,spepack_key_custom,Keyword Adv Custom,Other add-on services,Other add-on services,Other add-on services,Other,False
+61364,deds2up_ipv4_2free,deds2up_ipv4_2free,Other add-on services,Other add-on services,Other add-on services,Other,False
+33801,spepack_key_starter,Keyword Adv Starter,Other add-on services,Other add-on services,Other add-on services,Other,False
+40386,fepa,FEPA,Other add-on services,Other add-on services,Other add-on services,Other,False
+1470,sepromo2,Premium  Search Engines,Other add-on services,Other add-on services,Other add-on services,Other,False
+1471,sepromo3,Optimum Search Engines,Other add-on services,Other add-on services,Other add-on services,Other,False
+61341,deds2up_ipv4_8free,8 direcciones IPv4,Other add-on services,Other add-on services,Other add-on services,Other,False
+116264,deds4up_ipv4_8free,8 Indirizzi IPv4,Other add-on services,Other add-on services,Other add-on services,Other,False
+80841,spid_webcam,Riconoscimento per credenziali spid tramite webcam,Other add-on services,Other add-on services,Other add-on services,Other,False
+78101,spepack_seo_premium,SEO Adv Premium,Other add-on services,Other add-on services,Other add-on services,Other,False
+109604,deds4up_ipv4_1free,1 Indirizzo IPv4,Other add-on services,Other add-on services,Other add-on services,Other,False
+132701,pagamento_rata,Pagamento rata,Other add-on services,Other add-on services,Other add-on services,Other,False
+50725,deds2up_ipv4_4,4 additional IPv4 address,Other add-on services,Other add-on services,Other add-on services,Other,False
+105561,spid_assistenza,Fornitura servizi di assistenza correlata al prodotto Spid,Other add-on services,Other add-on services,Other add-on services,Other,False
+105024,rankingcoach_00,Ranking Coach Account Basic Plan,Other add-on services,Other add-on services,Other add-on services,Other,False
+1012,asstel60,Assistance by phone - 60 minutes,Other add-on services,Other add-on services,Other add-on services,Other,False
+145861,spid_lv3,Livello 3 SPID,Other add-on services,Other add-on services,Other add-on services,Other,False
+1469,sepromo1,Standard Search Engines,Other add-on services,Other add-on services,Other add-on services,Other,False
+35961,spepack_soc_pro,spepack_soc_pro,Other add-on services,Other add-on services,Other add-on services,Other,False
+127481,spid_eidup_pg,SpidItalia uso professionale Persona Giuridica,Other add-on services,Other add-on services,Other add-on services,Other,False
+61361,deds2up_ipv4_1free,deds2up_ipv4_1free,Other add-on services,Other add-on services,Other add-on services,Other,False
+76542,spid_cf,SpidItalia dei cittadini,Other add-on services,Other add-on services,Other add-on services,Other,False
+135901,spid_rao_assistenza,Canone annuale assistenza Spid per RAO,Other add-on services,Other add-on services,Other add-on services,Other,False
+1475,spepack1,SPECIAL PACK Trial,Other add-on services,Other add-on services,Other add-on services,Other,False
+31623,spepack_key_entry,Keyword Adv Entry,Other add-on services,Other add-on services,Other add-on services,Other,False
+135902,spid_rao_canone,Canone annuale BO de-visu per RAO spid,Other add-on services,Other add-on services,Other add-on services,Other,False
+35021,spepack_seo_pro,SEO Adv Professional,Other add-on services,Other add-on services,Other add-on services,Other,False
+36301,spepack_soc_custom,Social Adv custom,Other add-on services,Other add-on services,Other add-on services,Other,False
+174682,obp_gbmonitor,Global Brand Monitoring Corsearch,Other add-on services,Other add-on services,Other add-on services,Other,False
+33332,spepack_key_pro,Keyword Adv Professional,Other add-on services,Other add-on services,Other add-on services,Other,False
+75421,spid_piva,Spid partite iva,Other add-on services,Other add-on services,Other add-on services,Other,False
+61662,deds2up_ipv4_4free,4 indirizzi IPv4,Other add-on services,Other add-on services,Other add-on services,Other,False
+61343,deds2up_ipv6_1free,1 dirección IPv6,Other add-on services,Other add-on services,Other add-on services,Other,False
+34449,spepack_seo_custom,SEO Adv Custom,Other add-on services,Other add-on services,Other add-on services,Other,False
+96521,spepack_soc_enter,Social Adv Enterprise,Other add-on services,Other add-on services,Other add-on services,Other,False
+130801,spid_power,SpidPower - area riservata e assistenza,Other add-on services,Other add-on services,Other add-on services,Other,False
+165823,asstel61,Assistance by phone - 60 minutes,Other add-on services,Other add-on services,Other add-on services,Other,False
+51383,deds2up_ipv4_1,1 additional IPv4 address,Other add-on services,Other add-on services,Other add-on services,Other,False
+117041,spid_eidup_cf,SpidItalia uso professionale persona fisica,Other add-on services,Other add-on services,Other add-on services,Other,False
+35701,spepack_seo_starter,SEO Adv Power,Other add-on services,Other add-on services,Other add-on services,Other,False
+135903,spid_rao_formazione,Setup e Formazione per RAO spid,Other add-on services,Other add-on services,Other add-on services,Other,False
+1648,!!NOPCODE!!,!!NOPCODE!!,Other add-on services,Other add-on services,Other add-on services,Other,False
+91661,assprem_bulktransfer,Trasferimento domini in bulk,Registry Services,Domain services,Domain Names,Domains,False
+231,chguk,Domain Transfer,Registry Services,Domain services,Domain Names,Domains,False
+763,chgxxx,Transfer of Registrar,Registry Services,Domain services,Domain Names,Domains,False
+2014,aftermarket_setup,Aftermarket setup,Registry Services,Domain services,Domain Names,Domains,False
+110781,sslcert_pos_dv,SSL Certificate PositiveSSL DV,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+82241,sslcert_rapidssl_2,SSL Certificate Rapid SSL,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+130147,dmndregsslw,"richiesta, attivazione e configurazione certificato ssl di tipo wildcard domain",SSL certificates,SSL certificates,SSL certificates,Hosting,False
+141702,sslcert_inst_ov_s16,SSL Certificate InstantSSL OV 16 SAN,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+140021,sslcert_inst_ov_s2,SSL Certificate InstantSSL OV 2 SAN,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+79782,sslcert_custom,SSL Certificate,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+141703,sslcert_inst_ov_s4,SSL Certificate InstantSSL OV 4 SAN,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114642,sslcert_sec_dv,sslcert_sec_dv,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+65161,sslcert_sslwebsrvev,SSL Certificate Web Server with EV,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+24201,sslcert_sslwebserver,SSL Certificate SSLwebserver,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+22461,sslcert_ssl123,SSL Certificate SSL123,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114681,sslcert_inst_ov_wc,SSL Certificate InstantSSL OV Wildcard,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+102681,sslcert_truebusev,Certificato SSL True BusinessID con EV,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114628,sslcert_inst_ov,sslcert_inst_ov,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+47521,sslcert_rapidssl,SSL Certificate Rapid SSL,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+139901,sslcert_pos_dv_san,SSL Certificate PositiveSSL DV Multi-Domain,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+69021,sslcert_rapid_srv,sslcert_rapid_srv,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114761,sslcert_sec_ev,SSL Certificate SectigoSSL EV,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+141709,sslcert_pos_dv_sw1,SSL Certificate PositiveSSL DV 1 SAN Wildcard,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+141705,sslcert_pos_dv_s1,SSL Certificate PositiveSSL DV 1 SAN,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+31721,sslcert_sslwebsrvwc,SSL Certificate Web Server Wildcard,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+141701,sslcert_inst_ov_s1,SSL Certificate InstantSSL OV 1 SAN,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+115601,sslcert_pos_dv_wc,SSL Certificate PositiveSSL DV Wildcard,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114625,sslcert_dg_websrv,SSL Certificate Web Server,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+114624,sslcert_dg_rapid,SSL Certificate Rapid SSL,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+140022,sslcert_inst_ov_san,SSL Certificate InstantSSL OV UUC,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+115201,sslcert_pos_dv_mktg,SSL Certificate PositiveSSL DV,SSL certificates,SSL certificates,SSL certificates,Hosting,False
+1767,host_app_jml,Joomla CMS,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+33083,host_app_presta,Prestashop Ecommerce,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1533,hosting20,Hosting Personal Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1865,host_app_drpl,Drupal CMS,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1711,hostndlx150,Hosting Business Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1871,hostingnew150,Hosting Business Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1628,hostndlx50,Hosting Developer Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1704,host_app_wp,host_app_wp,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1627,hostndlx20,Hosting Personal Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+129773,dmndmy25,mysql 25 - database con spazio limitato a 25 mb,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+826,bandw50,50 GB  monthly additional traffic,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1705,host_lx_pro,Hosting Professional Linux nodomain revamp,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1968,host_nd_lx_prem,Hosting Premium Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1773,hostingnew50,Hosting Developer Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+32401,host_app_jml3,Joomla 3 CMS,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1967,host_nd_lx_plat,Hosting Platinum Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1919,host_nd_lx_pro,Hosting Professional Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1769,host_lx_prem,Hosting Premium Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+1768,host_lx_plat,Hosting Platinum Linux,Shared hosting,Shared hosting,Shared hosting,Hosting,False
+98766,sitonline_start,Sitonline Start,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+2010,wcreator_premium,WebSite Premium,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+84501,duda_20,Simply Site Professional,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+1939,wcreator_start,WebSite Starter,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+98765,sitonline_pro,Sitonline Professional,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+1940,wcreatornd_pro,WebSite Professional,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+2051,wcreatornd_premium,WebSite Premium,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+1833,wcreator_pro,WebSite Professional,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+83741,duda_10,Simply Site Entry,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+98764,sitonline_pre,Sitonline Premium,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+13581,csite_business,Cloud Site Business,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+84801,duda_30,Simply Site Premium,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+89541,duda_00,Micro Site,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+2011,wcreatornd_start,WebSite Starter,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+1899,wcreator_free,WebSite - Courtesy page,SiteBuilder,SiteBuilder,Other Applications,Applications,False
+40701,trademark_check,Ricerca di novità marchio,Trademark Fee,Trademark Services,Trademark Services,Other,False
+-1,,Not applicable,Unknown,Unknown,Unknown,Unknown,True
+135982,hypvvps2up_cpu16,16 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+42481,hypvvps_large,VPS Large,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+28608,hypvlcup_ram1gb,Ram 1 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135077,hypvvps2up_plsk10,Plesk 10 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135071,hypvvps2up_hdd20,Hard disk 20 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39369,hypvvpsup_hdd40gb,Hard disk 40 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+40303,hypv3up_band3tb,Bandwidth 3 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135701,hypvvps2up_plsk30,Plesk 30 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135078,hypvvps2up_ram4,Ram 4 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135062,hypvvps2up_bandunl,Traffic Unlimited,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+83022,sfera_virtual_it,Virtual Server (Italia),Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135069,hypvvps2up_band3,Traffic 3 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+42402,hypvvpsup_band1tb,Traffic 1 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135073,hypvvps2_s_2,VPS S - SSD2,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135075,hypvvps2up_cpu2,2 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+51385,hypv3up_win2012cal10,Windows Server 2012 Standard with 10 Client Access Licenses,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+83062,hypvvps_xl,hypvvps_xl,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+52582,hypv3up_ipv4_4,4 Additional IPv4 addresses,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33884,hypv2up_ram16gb,hypv2up_ram16gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43242,hypvvpsup_plesk30,Plesk 30 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135074,hypvvps2up_band4,Traffic 4 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33889,hypv2up_ram8gb,Ram 8 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+42401,hypvvps_small,VPS Small,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33427,hypv2up_plesk10,Plesk 10 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39362,hypvvps_base,VPS,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+131387,dmndsmtpsvr,"fornitura, gestione e manutenzione mensile server virtuale con funzionalità smtp commagents.com",Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135984,hypvvps2up_ram32,Ram 32 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33808,hypv2up_cpu2,hypv2up_cpu2,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135983,hypvvps2up_hdd240,Hard disk 240 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43662,hypv3up_cpu2,2 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+59121,hypvvpsup_band10tb,hypvvpsup_band10tb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+40304,hypv3up_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135076,hypvvps2up_hdd40,Hard disk 40 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15602,hypvup_hdd120gb,Hard disk 120 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+40306,hypv3up_ram1gb,Ram 1 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135981,hypvvps2_xl_5,VPS XL - SSD5,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+108921,hypvvpsup_linux,Linux OS,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+50001,hypvvpsup_ram8gb,hypvvpsup_ram8gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39366,hypvvpsup_cpu2,2 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33883,hypv2up_hdd120gb,hypv2up_hdd120gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+138982,hypvvps2up_cpu32,32 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39370,hypvvpsup_hdd80gb,Hard disk 80 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135625,hypvvps2up_ram8,Ram 8 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135065,hypvvps2up_linux,Linux OS,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43483,hypv3up_plesk10,hypv3up_plesk10,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39365,hypvvpsup_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+49881,hypvvpsup_band12tb,Traffic 12 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39368,hypvvpsup_hdd20gb,Hard disk 20 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+52301,hypv3up_ipv4_1,1 IPv4 address,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+44003,hypv3up_hdd400gb,hypv3up_hdd400gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33425,hypv2up_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43681,hypv3up_ram16gb,hypv3up_ram16gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43487,hypv3up_pleskunl,Plesk Unlimited,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+131415,dmndsvrwek,"affitto mensile server virtuale per ospitalità siti wekids: hyper-v, 4 processori, 10 gb ram, 200 gb hd, 2 ip aggiuntivi.",Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+31541,hypvlcup_hdd20gb,hypvlcup_hdd20gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+64141,hypv3up_ipv4_1up,hypv3up_ipv4_1up,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135066,hypvvps2up_ram16,Ram 16 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39372,hypvvpsup_ram2gb,Ram 2 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135072,hypvvps2up_ram1,Ram 1 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+51921,hypv3up_ipv4_2,2 Indirizzi IPv4 aggiuntivi,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135623,hypvvps2up_cpu4,4 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39363,hypvvpsup_band3tb,Traffic 3 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43502,hypv3up_hdd40gb,Hard disk 40 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39374,hypvvpsup_windows,Windows OS,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135622,hypvvps2up_band8,Traffic 8 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15944,hypvup_ram2gb,Ram 2 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135061,hypvvps2_l_4,VPS L - SSD4,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+34047,hypv2up_hdd240gb,Hard disk 240 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39367,hypvvpsup_cpu4,4 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15943,hypvup_cpu2,2 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43503,hypv3up_ram2gb,Ram 2 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43661,hypv3up_ram4gb,Ram 4 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43490,hypv3up_hdd240gb,Hard disk 240 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15604,hypvup_ram4gb,Ram 4 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135063,hypvvps2up_cpu8,8 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43489,hypv3up_cpu4,4 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33581,hypv2up_band3tb,Bandwidth 3 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33881,hypv2up_cpu4,hypv2up_cpu4,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+28604,hypvlc_base,Virtual Server,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+137061,hypvvps2up_plskunl,Plesk Unlimited,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15984,hypvup_plesk100,Plesk 100 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33582,hypv2up_band5tb,Bandwidth 5 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15981,hypvup_band3tb,Bandwidth 3 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+59241,hypvvpsup_band15tb,Traffic 15 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+138981,hypvvps2_xxl_6,VPS XXL - SSD6,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+14184,hypvup_hdd40gb,Hard disk 40 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+138984,hypvvps2up_ram64,Ram 64 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15982,hypvup_hdd240gb,Hard disk 240 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43701,hypv3up_band5tb,Bandwidth 5 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15983,hypvup_hdd80gb,Hard disk 80 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43943,hypv3up_plesk30,Plesk 30 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39373,hypvvpsup_ram4gb,Ram 4 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135068,hypvvps2_xs_1,VPS XS - SSD1,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+138983,hypvvps2up_hdd500,Hard disk 500 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15603,hypvup_plesk10,Plesk 10 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+42482,hypvvps_medium,VPS Medium,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43241,hypvvpsup_plesk10,Plesk 10 domains,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135621,hypvvps2_m_3,VPS M - SSD3,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+67881,sfera_virtual_hk,Virtual Server (Hong Kong),Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+28606,hypvlcup_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39371,hypvvpsup_ram1gb,Ram 1 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43621,hypv3up_hdd80gb,hypv3up_hdd80gb,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43488,hypv3up_band25tb,Bandwidth 25 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135624,hypvvps2up_hdd80,Hard disk 80 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+49541,hypvvpsup_pleskunl,Plesk Unlimited,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135064,hypvvps2up_hdd160,Hard disk 160 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135070,hypvvps2up_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33941,hypv2up_plesk30,hypv2up_plesk30,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+130901,dmndanasvr2,affitto mensile server virtuale dedicato per ospitalità sito areanapoli.it,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+15581,hypvup_band1tb,Bandwidth 1 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+135067,hypvvps2up_windows,Windows OS,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43484,hypv3up_hdd120gb,Hard disk 120 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+39364,hypvvpsup_band5tb,Traffic 5 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43485,hypv3up_ram8gb,Ram 8 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+33423,hypv2_base,Virtual Server,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+40305,hypv3up_hdd20gb,Hard disk 20 GB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+14183,hypvup_cpu1,1 vCpu,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+43486,hypv3up_band12tb,Bandwidth 12 TB,Virtual Private Servers,Virtual Private Servers,Cloud computing VPS,Hosting,False
+83063,hypvvpsup_band25tb,hypvvpsup_band25tb,Virtual Private Servers add ons,Virtual Private Servers add ons,Cloud computing VPS,Hosting,False
+83061,hypvvpsup_hdd160gb,hypvvpsup_hdd160gb,Virtual Private Servers add ons,Virtual Private Servers add ons,Cloud computing VPS,Hosting,False
+2020,ecommerce_starter,eCommerce Starter,Webshop,Webshop,eCommerce,Applications,False
+1861,ecommerce_pro,eCommerce Professional,Webshop,Webshop,eCommerce,Applications,False
+22241,ecommercend_premium,Ecommerce Premium,Webshop,Webshop,eCommerce,Applications,False
+94262,duda_shop_30,Simply Shop Premium,Webshop,Webshop,eCommerce,Applications,False
+93781,duda_shop_10,Simply Shop Starter,Webshop,Webshop,eCommerce,Applications,False
+94361,duda_shop_20,Simply Shop Professional,Webshop,Webshop,eCommerce,Applications,False
+1763,ecomgibo_pro,Ecommerce Professional,Webshop,Webshop,eCommerce,Applications,False
+42143,ecommercend_platinum,Ecommerce Platinum,Webshop,Webshop,eCommerce,Applications,False
+2046,ecommerce_platinum,eCommerce Platinum,Webshop,Webshop,eCommerce,Applications,False
+2019,ecommerce_premium,Ecommerce Premium,Webshop,Webshop,eCommerce,Applications,False
+1910,ecommerce_free,eCommerce Free,Webshop,Webshop,eCommerce,Applications,False
+35801,ecommercend_pro,ecommercend_pro,Webshop,Webshop,eCommerce,Applications,False
+1709,hostingws50,Hosting Developer Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1713,hostndws150,Hosting Business Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+48941,cpanelappjml10,Hosting App Joomla,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129784,dmndweb100,100 mb di spazio web,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+65781,cdc1m3l,HOSTING CONDIVISO BASIC,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43403,cpanelmono10,Hosting Linux Smart,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1770,host_ws_plat,Hosting Platinum Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129779,dmndspazio100,"dominiando spazio 100 (100 mb web, 10 email)",Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43404,cpanelwhm10,Hosting Reseller Silver,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1970,host_nd_ws_prem,Hosting Premium Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+126761,cpanelmono11,Hosting Cpanel Professional,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+126841,cpanelmono06,Hosting Cpanel Entry,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+126762,cpanelmono21,Hosting Cpanel Business,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43903,host_ws85_10,Hosting Windows Smart,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+130873,dmndspazio10,"dominiando spazio 10 (10 mb web, 1 email)",Website Hosting,Website hosting,Basic Hosting,Hosting,False
+48342,cpanelappwp10,Hosting Wordpress,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+49501,cpanelapppresta10,cpanelapppresta10,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129785,dmndweb200,200 mb spazio web,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129783,dmndspazio500,"dominiando spazio 500 (500 mb web, 10 email)",Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1922,host_nd_ws_pro,Hosting Professional Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1707,host_ws_pro,Hosting Professional Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1969,host_nd_ws_plat,Hosting Platinum Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+66141,cdca31f,HOSTING CONDIVISO BUSINESS LINUX,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+44141,cpanelmono30,Hosting Cpanel Enterprise,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+130876,dmndweb2000,2000 mb spazio web,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43904,host_ws85_20,Hosting Windows Advanced,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43702,cpanelmono20,Hosting Linux Advanced,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1629,hostndws50,Hosting Developer Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+66142,cdca41f,HOSTING CONDIVISO BUSINESS WINDOWS,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+51962,cpanelmono05,Hosting Linux DominioPro,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129790,dmndwp50gb,hosting linux 50gb con wordpress,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+44364,cpanelwhm20,Hosting Reseller Gold,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+129763,dmnddirprot,protezione directory web,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1708,hostingws20,Hosting Developer Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1775,hostingws150,Hosting Business Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+44366,cpanelwhm40,Hosting Reseller Diamond,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+1771,host_ws_prem,Hosting Premium Windows,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+44365,cpanelwhm30,Hosting Reseller Platinum,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+65783,cdca21f,HOSTING CONDIVISO HOME,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+43941,host_ws85_30,host_ws85_30,Website Hosting,Website hosting,Basic Hosting,Hosting,False
+164441,combsh_wp10,WordPress Business,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+164442,combsh_wp20,WordPress Digital,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+162025,combsh_wpman20,Managed WordPress Digital,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+162024,combsh_wpman10,Managed WordPress Business,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+162026,combsh_wpman30,Managed WordPress Premium,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+164202,combsh_wpman5,Managed WordPress Start,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+164444,combsh_wp5,WordPress Start,WordPress Hosting,Wordpress & Other CMS hosting,Shared hosting,Hosting,False
+20521,sunrise_fee,Domain Sunrise Fee,gTLD,Domainnames,Domain Names,Domains,False
+26221,chgownuno,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1119,chgowneu,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1074,chgownbg,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1501,chgownnet,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1602,chgownmobi,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1239,chgownru,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1245,chgownse,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1205,chgownmx,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1093,chgownch,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1500,chgowncom,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1603,chgownname,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+62202,chgownacademy,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1252,chgownsm,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1250,chgownsk,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1268,chgowntm,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+12461,chgowncomtw,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1113,chgownee,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1232,chgownpt,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+26321,chgownemail,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1215,chgownno,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1063,chgownar,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1159,chgownit,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1599,chgowninfo,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+62682,chgownsex,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1138,chgowngr,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1589,chgownaero,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1117,chgownes,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1237,chgownro,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1498,chgownbiz,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1189,chgownme,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1679,chgowncomve,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+62081,chgownstore,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1502,chgownorg,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1505,chgownxxx,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+27502,chgowntechnology,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1107,chgowndj,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+65481,chgownshop,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1279,chgownuk,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1253,chgownsn,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1163,chgownjp,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1106,chgownde,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+66401,chgownsrl,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+44861,chgowndigital,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1281,chgownus,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1125,chgownfr,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1054,chgownae,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1246,chgownsg,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1227,chgownpl,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+33961,chgownbio,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1289,chgownvn,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1072,chgownbe,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1112,chgownec,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1098,chgowncn,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1597,chgowncouk,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1275,chgowntw,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1144,chgownhk,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1590,chgownasia,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1182,chgownlt,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+1151,chgownie,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+66483,chgowncredit,Change Ownership,Domain services,Domain services,Domain Names,Domains,False
+50545,chgownwebsite,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+115081,chgownfun,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+46483,chgownporn,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+161841,chgownswiss,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+106181,chgownmoney,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+66481,chgowncreditcard,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+50544,chgownonline,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+46482,chgownadult,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+60663,chgownspace,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+120021,chgownvin,Change Ownership,Registry Services,Domain services,Domain Names,Domains,False
+58701,domsucks,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1412,regcomhk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39348,dombio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35941,domcareers,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+739,regvn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+296,domcl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+328,domge,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61421,domtaxi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+359,domit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+52241,domlegal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+45121,domreisen,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+780,domorg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+386,domma,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+63441,domshow,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65521,domshop,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+97281,domcomjo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46083,domsurgery,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+333,domgl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36681,domcenter,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+771,domcom,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+475,domtv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+131418,domxn--55qx5d,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+54041,regfamily,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+864,domcocr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+998,sregbiz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+62041,domteam,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24141,regshoes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+23381,regland,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35421,domuno,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+724,regtv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34564,regclick,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1333,domcompl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+33342,reghealthcare,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26202,regmarketing,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+29323,regservices,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35101,domholdings,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+676,regpl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65564,domearth,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+50742,regstudio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+490,domvn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+17901,domcomlv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+64161,domlive,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+395,dommn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51063,domsrl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+372,domkw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+388,dommd,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51161,dompizza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38644,domzone,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+66462,regblog,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+274,dombg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+365,domkg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1322,domcomhk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+64781,regshopping,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49761,domwien,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+482,domus,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+555,regde,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+400,domms,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+29941,regexchange,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1320,domcomgi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42902,domengineering,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49781,dommarket,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+600,regie,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+72441,dompromo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1424,regcompa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+428,dompm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+68541,domvip,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+718,regtm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+542,regch,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+326,domga,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42881,dompictures,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+251,domac,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46421,regteam,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+697,regsi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1438,regcomvn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+606,regir,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41061,domcommunity,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+817,sdomit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+809,regnet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+507,regam,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1316,domcomdo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+358,domis,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+476,domtw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+56321,domwine,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+688,regru,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60261,domsite,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+794,regbiz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+694,regse,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+78642,domfun,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37661,domclub,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+264,domat,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24806,regsystems,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1325,domcommt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1344,domcomvn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+75021,domgmbh,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+401,dommt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36521,domsupport,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34781,regpizza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+663,regnl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41781,dombar,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61721,dommovie,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+63041,domone,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+727,regua,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+862,domcoat,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40483,regfashion,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+57362,domvideo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1313,domcombr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+73641,domshopping,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+292,domcg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42281,domcards,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+310,domdo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35642,domconstruction,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+300,domcr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39182,dommarketing,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+312,domec,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+506,regal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+22988,reggraphics,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+719,regtn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+407,dommz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+66281,domfishing,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+64501,reggames,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+796,regcom,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+563,regeg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+633,reglv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1315,domcomco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34281,domsexy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+45001,reggold,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+463,domtf,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38501,reglegal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+420,domom,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+638,regme,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+56721,domcloud,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39341,domagency,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+438,domrs,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+431,domps,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1336,domcomro,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+486,domvc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+650,regmt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+255,domag,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+994,sdomorg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+263,domas,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31681,regdigital,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+962,reginfo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1487,sregmobi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38941,domholiday,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65862,domrent,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51181,dombusiness,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35681,regworld,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+22986,regestate,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+575,regga,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40904,domcooking,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+344,domhk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26962,domsystems,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+297,domcm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1404,regcombs,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+714,regth,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+869,domcojp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+383,domlu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+69281,dompet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+56561,domwedding,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+308,domdk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+30262,regconsulting,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+129501,domxn--p1ai,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40505,dommoda,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+959,regcouk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+471,domto,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61121,domgold,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+415,domno,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31023,regdiscount,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+852,domasia,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+52123,regwine,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34341,domclothing,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+30684,regcare,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+73802,domgroup,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65222,domswiss,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+608,regit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1001,sregnet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+57681,dombarcelona,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1442,reginfo2,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38643,domgift,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+349,domhu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+48023,domtoys,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+884,domcouk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60541,domtop,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+968,regname,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+631,reglt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+70341,domltd,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37282,regcasa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31024,regfitness,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+130645,domnetcn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+492,domwf,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+59181,domgreen,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46541,domcash,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39765,domblue,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+54163,domtours,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+382,domlt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37222,domcomputer,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+446,domsg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37441,dombeer,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+436,domre,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+325,domfr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46764,domguide,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49261,domrestaurant,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+495,domyt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+347,domhr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47361,domfinance,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51682,domporn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+389,domme,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+479,domug,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37587,dominstitute,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47502,domcreditcard,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24823,regcenter,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47501,domcredit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46904,dompress,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+343,domgy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39445,domfoundation,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+601,regil,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+458,domsv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+364,domke,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+350,domid,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+70901,domboats,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+470,domtn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36221,domrecipes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+330,domgg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39349,domlondon,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+130643,domcomcn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46902,domdigital,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47881,domcountry,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+686,regro,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+816,sdomeu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+88821,regtube,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47021,domwebsite,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+553,regcy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+293,domch,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+820,sregit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+338,domgr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1526,domtravel,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+99422,domeduit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+379,domlk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+23326,regtechnology,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+385,domly,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+469,domtm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+73721,regeco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1326,domcommx,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+289,domcc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41842,dommaison,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+334,domgm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46082,domdental,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+729,reguk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+574,regfr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+129581,dominua,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1335,domcompt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+57361,domdesign,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+371,domkr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+375,domla,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+25223,regsolutions,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1406,regcomdo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34048,regrestaurant,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38962,domfarm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+331,domgh,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26245,regblue,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40145,domcruises,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+422,dompe,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61442,domsex,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+790,domxxx,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+557,regdk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+53641,domcasa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+457,domsu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+256,domai,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+260,domao,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+530,regbr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+318,domet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49121,domhealthcare,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+891,domname,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+72661,regfun,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51243,regsex,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+886,dominfo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+351,domie,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+363,domjp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+62261,domski,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+593,reghk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49362,domgifts,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31281,reggratis,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51384,domsoftware,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+559,regdo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+57441,domonline,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49721,domsoy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+82521,domart,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+612,regjp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+587,reggr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+287,dombz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1329,domcomni,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+487,domve,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+59543,regpromo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+144201,domsalon,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+23324,regconstruction,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26961,regclub,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+53781,domenergy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+257,domal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24822,regacademy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51841,regrent,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+27901,regsocial,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+91141,domhealth,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35782,domkitchen,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26719,regagency,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+720,regto,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+130646,domorgcn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+317,domes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41822,dombid,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+59041,dommoscow,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61441,domdog,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37022,domcoffee,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+254,domaf,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1343,domcomve,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49081,domhorse,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+465,domth,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+352,domil,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34688,regbusiness,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+28946,regindustries,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46903,domglobal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+64341,domdownload,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+58641,domtech,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+437,domro,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+636,regmc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35321,domguru,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+545,regcl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36882,domcab,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46763,domfitness,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36302,domeducation,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+374,domkz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+620,regkr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35922,domshoes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+43302,domblackfriday,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+298,domcn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1568,regtravel,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+55281,domreport,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36061,domgratis,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+64662,regshop,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+50962,domattorney,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+478,domua,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42022,domtools,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+488,domvg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+554,regcz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39766,domred,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31081,regbio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+355,domio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1002,sregorg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60162,domgolf,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35483,domenterprises,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+126901,domxn--fiqs8s,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+596,reghr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+518,regba,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31461,regaudio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+480,domuk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+258,domam,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+577,regge,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+288,domca,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+768,domcat,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+880,domcoma,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+67502,domvin,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60301,domexpress,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+473,domtr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42021,domconsulting,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+340,domgt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1345,domcoop2,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+493,domws,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+819,sregeu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+354,domin,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+387,dommc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31761,regglobal,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+73801,domchat,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+675,regpk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+509,regao,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35882,domkiwi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+566,reges,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+967,regmobi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60221,reggroup,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+452,domsm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+29801,regbar,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+59821,domschool,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+45824,domuniversity,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49241,domclick,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+406,dommy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+50081,regmoscow,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+569,regfi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+427,dompl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42181,domcity,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+314,domeg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+269,domba,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1342,domcomua,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+744,regye,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+429,dompn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1340,domcomtr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34881,domtoday,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+43441,domink,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26882,domcompany,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+290,domcd,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+320,domfi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1567,regmuseum,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+870,domcoke,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+992,sdomcom,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38102,domluxury,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42541,dommedia,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+405,dommx,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39343,domsocial,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+44101,domchristmas,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+33142,regnyc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+568,regeu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+628,reglk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1454,regnetco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1309,domcomar,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+432,dompt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1467,sdommobi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+548,regco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+810,regorg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+603,regin,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35601,domcontractors,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+722,regtr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+668,regnz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+731,regus,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38781,regmoney,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+497,domza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+43041,regschool,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35604,dommenu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1486,sreginfo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+98621,regeduit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+955,regcoma,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+885,domcoza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+106041,regdev,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+655,regmy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+451,domsl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+699,regsk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+425,domph,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47401,domfinancial,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47982,regsoccer,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+384,domlv,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+378,domli,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46281,reglove,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35921,domphotos,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+392,dommk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+654,regmx,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34701,domtechnology,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+502,regae,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38582,dombuilders,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+412,domng,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+72101,domtube,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+306,domde,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+439,domru,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+27762,regvacations,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40542,regwedding,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+456,domst,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46081,domclinic,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+48622,domstyle,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39342,domfutbol,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+98381,domapp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1311,domcomaz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+59681,regvip,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+54581,domspace,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+66221,regdoctor,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+286,domby,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46701,regtech,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+36303,domlink,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+815,sdomes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26123,regphoto,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+32083,regwebsite,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+281,dombr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+426,dompk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+25521,regeducation,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+323,domfm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+83461,domradio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+51681,domadult,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39181,dompics,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+448,domsi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+747,regza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+8422,domcomsa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26861,domemail,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+50321,reglive,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+621,regkw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1466,sdominfo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+45261,regnews,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+30902,regclinic,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37822,regspace,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+91281,domonl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37582,domglass,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+38341,domphoto,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26842,domacademy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+61142,domfit,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60501,domlove,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1312,domcombo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35602,domequipment,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41801,domnyc,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+44742,reggreen,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+725,regtw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+434,dompy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+419,domnz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37241,domrepair,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37583,domhouse,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+301,domcu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+353,domim,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+63701,domcourses,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31401,domxyz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+309,domdm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+681,regpt,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40508,domservices,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37741,domnetwork,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+523,regbg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37581,regwork,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+687,regrs,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34689,regsoftware,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+262,domar,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+304,domcy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39881,regrehab,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+49281,domdirect,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+635,regma,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+32082,domcombd,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+46766,domlife,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+450,domsk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+813,regtel,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+445,domse,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40781,domevents,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+960,regcoza,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+58221,domapartments,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65561,domstore,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+376,domlb,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+562,regee,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1331,domcompa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+547,regcn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+767,dombiz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35041,domgallery,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1314,domcombs,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+605,regiq,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+871,domcokr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1308,domcomag,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+50581,regsrl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+357,domir,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+110681,domsport,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+56562,domfashion,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+887,domjobs,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+60363,regstore,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35442,domphotography,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+402,dommu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1349,dominfo2,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+779,domnet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+280,dombo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1323,domcomhr,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35485,domlighting,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39183,domninja,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1337,domcomsg,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65141,domstudio,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1310,domcomau,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+299,domco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+313,domee,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+783,domtel,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+521,regbe,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+441,domsa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+26881,domcamp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35484,domgraphics,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+63901,reggmbh,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1317,domcomes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+736,regve,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+453,domsn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+115942,domdev,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+47541,regdog,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+514,regau,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1341,domcomtw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+34581,dominternational,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+644,regmn,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24825,reguno,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+40842,domtrade,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+27522,regdance,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1000,sregcom,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41065,domtokyo,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24805,regcompany,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+89441,domeco,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+54281,domcareer,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+71581,domblog,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+414,domnl,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+56161,regnavy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+31803,reglife,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+28944,regcards,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+367,domki,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35486,domtips,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+24701,regmenu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+890,dommobi,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+39345,domcodes,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+435,domqa,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+319,domeu,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+37383,regenergy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+48162,domplace,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+1365,domoffai,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+48141,regshow,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+336,domgp,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+42381,dompartners,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+505,regai,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+268,domaz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+467,domtk,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+67501,domfamily,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+404,dommw,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+272,dombe,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+483,domuy,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+993,sdomnet,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+305,domcz,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+781,dompro,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+701,regsm,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+41581,domindustries,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+671,regpe,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+513,regat,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+35981,domsolutions,Domain,Domain Names,Domainnames,Domain Names,Domains,False
+65984,sdomch,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+71141,sdompl,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+65421,sregtv,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+68521,sdomnl,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+71121,sregch,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+33201,sdombiz,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+68321,sregde,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+170382,sdomonline,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+79381,sregro,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+66541,sdomde,Domain Express,Domain Names,Domainnames,Domain Names,Domains,False
+989,sdom2eu,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1461,sdom2biz,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1463,sdom2com,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1465,sdom2org,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1464,sdom2net,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1570,sdom2mobi,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+990,sdom2it,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+1569,sdom2info,Domain+,Domain Names,Domainnames,Domain Names,Domains,False
+253,domae,Transfer of Maintainer,Domain Names,Domainnames,Domain Names,Domains,False
+851,domaero,Transfer of Maintainer,Domain Names,Domainnames,Domain Names,Domains,False
+46301,chgdesign,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+95,chghk,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+76,chgfr,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+756,chgcom,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+57,chgde,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+1044,chginfo2,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+5,chgae,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+102,chgie,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+47162,chginvestments,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+233,chgus,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+50702,chgporn,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+760,chgpro,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+126,chgla,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+841,chginfo,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+50,chgco,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+166,chgno,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+178,chgpl,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+57061,chgonline,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+63841,chgltd,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+111902,chgfish,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+32661,chgagency,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+39,chgca,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+176,chgph,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+62881,chgstore,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+32841,chgwebsite,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+49,chgcn,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+68,chges,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+40,chgcc,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+26862,chgcomro,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+16,chgat,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+59,chgdk,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+165,chgnl,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+43161,chgconsulting,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+78242,chgindustries,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+190,chgru,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+96242,chgfinancial,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+844,chgmobi,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+140,chgme,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+757,chgnet,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+120941,chgengineering,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+34621,chgbio,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+110,chgit,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+27761,chgclub,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+76222,chgpizza,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+47,chgcl,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+64,chgee,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+44,chgch,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+72961,chgfinance,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+755,chgcat,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+32,chgbr,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+48541,chgbusiness,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+96561,chgsexy,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+836,chgcokr,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+100,chghu,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+1032,chgcompl,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+199,chgsi,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+99441,chgbest,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+44521,chgdigital,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+107781,chgradio,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+36362,chgsolutions,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+201,chgsk,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+70241,chginstitute,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+105,chgin,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+754,chgbiz,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+33401,chgcare,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+758,chgorg,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+839,chgcouk,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+23,chgbe,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+70,chgeu,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False
+1030,chgcompa,Transfer of Maintainer,Registry Services,Domain services,Domain Names,Domains,False

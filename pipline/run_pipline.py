@@ -115,15 +115,14 @@ def publish(ctx):
             n += client.get_table(f"{C.GCP_PROJECT_ID}.analytics.{t}").num_rows
         run(client, render(SQL / "analytics" / "bi_objects.sql"))
         st["rows_out"] = n
-
-
-def export(ctx, out_dir: Path):
+def export(ctx):
     """Optional CSV extracts."""
-    out = out_dir / "marts"
+    out = Path(C.OUTPUT_DIR) / "marts"
     out.mkdir(parents=True, exist_ok=True)
     for t in EXPORTED:
         rows = ctx.client.list_rows(f"{C.GCP_PROJECT_ID}.analytics.{t}")
-        with open(out / f"{t}.csv", "w", newline="") as f:
+        print({t})
+        with open(out / f"{t}.csv", "w", newline="", encoding="utf-8") as f:
             w = csv.writer(f)
             w.writerow([c.name for c in rows.schema])
             for r in rows:
@@ -166,8 +165,8 @@ def main():
         seed_status_map(client)
 
         # ------------------------------------------------------------ BRONZE
-        # run_pipeline(force=a.force_ingest)
-        run_pipeline(force=True)
+        run_pipeline(force=a.force_ingest)
+        # run_pipeline(force=True)
         run_rules(ctx, RULES, "bronze", C.DQ_FAIL_ON_ERROR)
 
         # ------------------------------------------------------------ SILVER
@@ -189,9 +188,9 @@ def main():
         run_rules(ctx, RULES, "gold", C.DQ_FAIL_ON_ERROR)
         # ------------------------------------------------------------ PUBLISH
         publish(ctx)
+        export(ctx)
         ctx.finish("success")
-        if a.export_dir:
-            export(ctx, Path(a.export_dir))
+
     except DQBlocked as e:
         ctx.finish("blocked_by_dq", str(e))
         print(f"\nBLOCKED: {e}\nanalytics.* was NOT refreshed (last good version still served).")
